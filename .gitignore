@@ -1,0 +1,16 @@
+/public/*
+!/public/.keep
+
+/old_public/*
+!/old_public/.keep
+
+/node_modules
+
+# Jetbrains
+/.idea
+
+# VSCode
+/.vscode
+
+# Mac
+/**/.DS_Store
